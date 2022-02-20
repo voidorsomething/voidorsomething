@@ -6,6 +6,8 @@
 </h1>
 <p align="center">
 Working on games 🎮
+    
 Discord is Void_#7932 💬
+    
 Website is https://www.cosmo.tk 🌐
 </p>
